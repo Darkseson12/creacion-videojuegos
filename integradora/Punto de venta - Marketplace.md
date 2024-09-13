@@ -54,7 +54,7 @@
 
 El “punto de venta \- MarketPlace” es una aplicación dirigida a estudiantes universitarios, enfocada en facilitar la compra y venta de productos y servicios dentro del campus. las características incluyen:
 
-1. # Propuesta de valor {#propuesta-de-valor}
+1. # Propuesta de valor 
 
    **¿Cuáles son las características diferenciales de tu producto o servicio?**  
 - La aplicación está enfocada para estudiantes de la universidad, facilitando la compra y venta de productos y servicios dentro del campus.  
@@ -85,7 +85,7 @@ El “punto de venta \- MarketPlace” es una aplicación dirigida a estudiantes
 
   **¿Qué  hace tu proyecto único e inigualable?**  Un enfoque exclusivo en el campus  a diferencia de otras plataformas de compraventa que operan en un ámbito más amplio, esta aplicación está exclusivamente centrada en la comunidad universitaria, adaptada a sus necesidades y ubicaciones específicas. Ofrece una solución que abarca una amplia gama de categorías desde renta de equipo, artículos hasta asesorías académicas. 
 
-2. # Segmento de clientes {#segmento-de-clientes}
+2. # Segmento de clientes 
 
    **¿Quiénes son tus principales clientes?** Estudiantes  
    **¿Qué necesitan de ti?** Acceso a productos y servicios, oportunidades de generar ingresos y una plataforma que brinde seguridad tanto para la integridad física del usuario como la del producto.  
