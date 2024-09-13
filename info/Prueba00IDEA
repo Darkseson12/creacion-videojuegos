@@ -1,0 +1,91 @@
+### Título del Juego
+- Proyecto M
+
+### Resumen
+- Trata de un adulto de 25 años indigena que por accidente entra en un cenote y roba una mascara de jade el cual contenia todas los pequños demonios mayas que provacaron una gran problema para su pueblo ahora debe sellar esos demoniso en otra mascara jade que encotrara en el camino.El videjuego estara desarollandose solo para PC
+
+### Índice
+- Lista de secciones y subsecciones.
+
+### Introducción
+- El tipo de juego es de 2d topdown donde el personaje debera enfrentar a 5 jefes donde al derrotarlos le dara un item para terminar el juego.
+- plataforma.
+- PC
+  
+### Gameplay
+#### Mecánicas
+- ¿Cómo se juega?
+El juego se controlorara con las flechas de la computadora o con A,W,S,D, el cual sera el movimiento de 8 direcciones , para acciones como golpes (en proceso),para recolectar objetos (en proceso),interactuar con los NPCS (en proceso)
+- ¿Qué puede hacer el jugador?
+Lo cual el jugador podra explorar el mapa , mientras se va encontrado con enemigos en el camino para terminar el juego
+  
+#### Objetivos
+- ¿Cuál es el objetivo del juego?
+El objetivo del jeugo es lograr recolectar las 5 partes de la nueva mascara jade para derrotar al jefe final
+- ¿Cómo se gana/perde?
+Se pierde si el jugador pierde sus 3 vidas ( o mas esta en proceso de saber como hacerlo)
+
+#### Controles
+- ¿Qué controles se usarán?
+Para manejar al jugador para acciones como golpear , interractuar y recoger objetos  se usara unicamente el teclado ( control esta en proceso de implementar)
+
+#### Progresión
+- ¿Cómo progresa el jugador?
+El juego tiene un progreso facil de entender ya que al termianar con un jefe enemigo este soltara el objeto requerido para continuar y ademas de una pequeña intruccion de donde debe diregirse para combatir el siguete jefe
+
+#### Puntuación
+- ¿Cómo se mide el éxito?
+Se medira tanto como los objetos obtenidos y una racha de enemigos derrotados
+
+#### Economía del Juego
+- ¿Hay moneda virtual, compras, etc.?
+El juego manejara un pequeño sistema de compras el cual va comprando mejoras como armas y posiblemte armaduras
+
+#### Adaptabilidad y dificultad
+- ¿El juego tiene distintos niveles de dificultad?
+El nivel de difultad va unmentando con la cantidad de jefes derrotados la facil esta habilitada para el primer jefe , la media con los segundo y tercer jefe y la dificultada dificil sera para el cuarto y quinto jefe para asi el jugador entindad mas los tipos de mecanicas que cuenta el juego 
+### Mundo del Juego
+#### Ambientación
+- ¿Dónde y cuándo tiene lugar el juego?
+El juego estara remontado en la epoca  Preclásico, en el cual los mayas tiene mayor impacto en el lado de yucatan donde se tiene mas conocimeintos sobre los dioses mayas y sus tipos de demonios que exitian
+
+#### Personajes
+- Descripción de personajes principales y secundarios.
+
+-   
+
+#### Objetos
+- Descripción de objetos importantes.
+
+#### Enemigos y obstáculos
+- Tipos de enemigos y cómo funcionan.
+
+#### Niveles
+- Descripción de los diferentes niveles o escenarios.
+
+### Arte
+#### Estilo visual
+- ¿Qué estilo de arte tendrá el juego?
+
+#### Personajes
+- Detalles del diseño de personajes.
+
+#### Escenarios
+- Detalles del diseño de escenarios.
+
+### Sonido y Música
+- Descripción del diseño sonoro del juego.
+
+### Tecnología
+#### Motor de Juego
+- ¿Qué motor de juego utilizarás?
+
+#### Requerimientos
+- Requerimientos técnicos y de hardware.
+
+### Planificación
+- Timeline de desarrollo.
+- Milestones.
+
+### Anexos
+- Cualquier material adicional como concept art, tablas, etc.
