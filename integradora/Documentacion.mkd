@@ -5,11 +5,7 @@
 El "Punto de Venta - Marketplace" es una aplicación destinada a estudiantes universitarios que facilita la compra y venta de productos y servicios dentro del campus. Este proyecto integrador abarca el desarrollo de una **aplicación web** que se transformará en una **Progressive Web App (PWA)** y, posteriormente, en una **aplicación móvil nativa**, utilizando **React** y otras tecnologías complementarias.
 
 #### **2. Objetivo del Proyecto**
-- **Objetivo General:** Desarrollar una aplicación web que evolucione a una Progressive Web App (PWA) y, finalmente, a una aplicación móvil nativa, aprovechando las capacidades de React y sus herramientas complementarias.
-- **Objetivos Específicos:**
-  - Crear una interfaz de usuario interactiva y accesible para la compra y venta de productos y servicios dentro del campus universitario.
-  - Implementar características de una PWA, como la capacidad de trabajar sin conexión, notificaciones push y acceso directo desde la pantalla de inicio.
-  - Realizar la conversión de la PWA a una aplicación móvil nativa utilizando herramientas como React Native.
+- **Objetivo General:** Desarrollar una plataforma digital multifuncional que permita a los estudiantes universitarios vender productos y ofrecer servicios de manera eficiente y segura dentro del campus, comenzando como una aplicación web accesible, evolucionando a una Progressive Web App (PWA) con capacidades mejoradas (como funcionamiento sin conexión y notificaciones push), y finalmente, convirtiéndose en una aplicación móvil nativa que aproveche al máximo las características del dispositivo, facilitando así la interacción y el comercio dentro de la comunidad universitaria.
 
 #### **3. Requerimientos Funcionales**
 - **Aplicación Web:**
